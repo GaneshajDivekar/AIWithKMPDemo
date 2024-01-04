@@ -62,7 +62,5 @@ Compose AI use the OpenAI API with GPT3.5-turbo the get the responses. We need t
 Here are some of the websites or repositories that helped me to create this project:
 
 - [Compose Multiplatform iOS / Android template](https://github.com/JetBrains/compose-multiplatform-ios-android-template)
-- [The #compose-ios channel on the official Kotlin Slack](https://kotlinlang.slack.com/archives/C0346LWVBJ4/p1678888063176359)
-- [KMPStarterOS](https://github.com/AppKickstarter/KMPStarterOS) : Open source template for Kotlin multiplatform and Compose by [@LouisDuboscq](https://github.com/LouisDuboscq)
 
 I want to thank all the whole Jetbrains team for making Compose Multiplatform possible, and all the amazing community that surrounds it ❤️
