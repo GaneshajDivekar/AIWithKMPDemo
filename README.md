@@ -1,3 +1,32 @@
+<p align="center">
+  <img src="https://github.com/EBfVince/ComposeAI/assets/24540801/02e51744-c826-4d7b-af2e-b509fb8af3f5" alt="Compose AI" />
+</p>
+
+<p align="center">An Android & iOS application ChatGPT like made with Compose Multiplatform</p>
+  
+<p align="center">
+  
+  <a href="https://www.jetbrains.com/fr-fr/lp/compose-multiplatform/">
+    <img src="https://img.shields.io/badge/-android-brightgreen" alt="Android">
+  </a>
+  
+  <a href="https://www.jetbrains.com/fr-fr/lp/compose-multiplatform/">
+    <img src="https://img.shields.io/badge/-iOS-lightgrey" alt="iOS">
+  </a>
+  
+  <a href="https://openai.com/">
+    <img src="https://img.shields.io/badge/AI-OpenAI-blueviolet" alt="OpenAI">
+  </a>
+  
+  <a href="https://gitmoji.dev">
+    <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg" alt="Gitmoji">
+  </a>
+    
+  <a href="https://github.com/EBfVince/ComposeAI/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/EBfVince/ComposeAI">
+  </a>
+  
+</p>
 
 ## Stack
 
